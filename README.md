@@ -8,7 +8,6 @@ After five years in mechanics, I transitioned to web development through a train
 
 * 🌍  I'm based in Sartrouville
 * ✉️  You can contact me at [antoine-78280@hotmail.fr](mailto:antoine-78280@hotmail.fr)
-* 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on Everything that comes with challenges and learning skills!
 * ⚡  I'm a curious person with the love of new technologies, movies and video-games !
 
